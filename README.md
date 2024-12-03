@@ -32,10 +32,8 @@ An interactive **PowerBI dashboard** can be found [here](https://raw.githubuserc
 
 **Genre Insights:**
 - The most popular genres based on the number of titles:
-- Drama (1,352 titles), Comedy (982 titles), and Action (964 titles).
-- Highest-rated genres:
-- War and Film-Noir, with average ratings of 8.2 and 7.5, respectively.
-- Horror is the lowest-rated genre, with an average rating of 4.9.
+- Comedy (1,352 titles), Drama (982 titles), and Action (964 titles).
+- Highest-rated genres: War and Film-Noir, with average ratings of 8.2 and 7.5, respectively. Horror is the lowest-rated genre, with an average rating of 4.9.
 
 **Regional Analysis:**
 - United States leads Netflix's library with the highest number of titles (2,326 titles) and votes (76M votes).
