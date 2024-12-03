@@ -16,11 +16,13 @@ An interactive **PowerBI dashboard** can be found [here](https://raw.githubuserc
 
 ![netflix data model](https://github.com/user-attachments/assets/00b4bb09-abda-4522-9f2a-5a88a5246c6a)
 
-![Netflix Dashboard](https://github.com/user-attachments/assets/cdc2c0e1-b27b-4861-b4c4-a75f6be2ca78)
+
 
 # Data Structure & Initial Checks
 
 # Executive Summary
+
+![Netflix Dashboard](https://github.com/user-attachments/assets/cdc2c0e1-b27b-4861-b4c4-a75f6be2ca78)
 An interactive **PowerBI dashboard** can be found [here](https://raw.githubusercontent.com/csiAI/Netflix-Ratings-and-Audience-Trends/refs/heads/main/Netflix%20project.pbix).
 
 - Content Distribution:
