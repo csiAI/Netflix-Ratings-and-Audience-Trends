@@ -64,4 +64,4 @@ Use high-vote titles as benchmarks for content development.
 
 
 **Conclusion:**
-This analysis showcases Netflix's diverse and expansive content library, highlighting how data-driven insights can optimize strategic decision-making. By focusing on high-performing genres, improving underperforming categories, and tailoring content for specific regions, Netflix can continue to captivate its global audience. The Power BI dashboard serves as a powerful tool to uncover audience preferences, regional trends, and content performance, enabling stakeholders to make informed and impactful decisions.
+- This analysis showcases Netflix's diverse and expansive content library, highlighting how data-driven insights can optimize strategic decision-making. By focusing on high-performing genres, improving underperforming categories, and tailoring content for specific regions, Netflix can continue to captivate its global audience. The Power BI dashboard serves as a powerful tool to uncover audience preferences, regional trends, and content performance, enabling stakeholders to make informed and impactful decisions.
