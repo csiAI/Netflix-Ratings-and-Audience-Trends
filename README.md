@@ -27,7 +27,7 @@ Highest-Rated Title: Stranger Things: Spotlight (Rating: 9.4)
 # Data Structure & Initial Checks
 
 # Executive Summary
-- Content Distribution
+- Content Distribution:
 Netflix offers 2,637 movies and 2,872 TV shows.
 TV Shows generally outperform movies, with an average rating of 7.2 compared to 6.1 for movies.
 Content is dominated by high-rating groups, with 1,780 titles rated 7 or higher.
