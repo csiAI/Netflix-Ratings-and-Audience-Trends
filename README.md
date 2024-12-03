@@ -18,12 +18,12 @@ An interactive **PowerBI dashboard** can be found [here](https://raw.githubuserc
 
 
 
-# Data Structure & Initial Checks
-
 # Executive Summary
 
-![Netflix Dashboard](https://github.com/user-attachments/assets/cdc2c0e1-b27b-4861-b4c4-a75f6be2ca78)
 An interactive **PowerBI dashboard** can be found [here](https://raw.githubusercontent.com/csiAI/Netflix-Ratings-and-Audience-Trends/refs/heads/main/Netflix%20project.pbix).
+
+![Netflix Dashboard](https://github.com/user-attachments/assets/cdc2c0e1-b27b-4861-b4c4-a75f6be2ca78)
+
 
 - Content Distribution:
 Netflix offers 2,637 movies and 2,872 TV shows.
