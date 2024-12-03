@@ -10,7 +10,7 @@ The main objectives of this project are to:
 - Regional Insights: Explore the distribution of Netflix content across different countries and regions.
 - Performance Metrics: Highlight high-performing genres and regions to support data-driven decision-making.
 
-An interactive **PowerBI dashboard** can be found [here](blob:https://github.com/5b410071-312f-400d-b047-ad883f0f6568).
+An interactive **PowerBI dashboard** can be found blob:https://github.com/5b410071-312f-400d-b047-ad883f0f6568
 
 # Data Structure & Initial Checks
 
