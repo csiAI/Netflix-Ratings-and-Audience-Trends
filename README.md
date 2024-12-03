@@ -31,19 +31,22 @@ Highest-Rated Title: Stranger Things: Spotlight (Rating: 9.4)
 Netflix offers 2,637 movies and 2,872 TV shows.
 TV Shows generally outperform movies, with an average rating of 7.2 compared to 6.1 for movies.
 Content is dominated by high-rating groups, with 1,780 titles rated 7 or higher.
-- Genre Insights
+
+- Genre Insights:
 The most popular genres based on the number of titles:
 Drama (1,352 titles), Comedy (982 titles), and Action (964 titles).
 Highest-rated genres:
 War and Film-Noir, with average ratings of 8.2 and 7.5, respectively.
 Horror is the lowest-rated genre, with an average rating of 4.9.
-- Regional Analysis
+
+- Regional Analysis:
 United States leads Netflix's library with the highest number of titles (2,326 titles) and votes (76M votes).
 Other top regions include:
 United Kingdom (448 titles, Avg Rating: 7.1)
 Japan (291 titles, Avg Rating: 7.4)
 Emerging markets such as India and South Korea are showing competitive ratings and engagement.
-- Viewer Preferences
+
+- Viewer Preferences:
 Top-rated titles include:
 Stranger Things: Spotlight (Rating: 9.4)
 Avatar: The Last Airbender (Rating: 9.3)
@@ -51,6 +54,7 @@ Cosmos: A Spacetime Odyssey (Rating: 9.3)
 Titles with higher votes tend to align with mainstream appeal, while niche genres such as Film-Noir receive fewer votes.
 
 **Key Insights and Recommendations:**
+
 1. Focus on Top-Performing Genres
 Drama, Comedy, and Action dominate the content library, but Netflix should capitalize on the growing popularity of niche genres such as War and Film-Noir to attract specific audiences.
 2. Improve Low-Rated Genres
