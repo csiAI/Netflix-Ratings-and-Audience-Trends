@@ -13,16 +13,9 @@ The main objectives of this project are to:
 An interactive **PowerBI dashboard** can be found [here]
 
 # Data Structure & Initial Checks
-The dataset includes comprehensive details on Netflix’s movie and TV show library, covering:
 
-Content Details: Titles, genres, types (movies/TV shows), and ratings.
-Viewer Engagement: Average ratings and the number of votes received.
-Regional Data: Distribution of content across countries.
-Key Statistics:
-Total Movies and TV Shows: 5,509
-Average Rating: 6.7
-Total Votes: 115M
-Highest-Rated Title: Stranger Things: Spotlight (Rating: 9.4)
+![netflix data model](https://github.com/user-attachments/assets/00b4bb09-abda-4522-9f2a-5a88a5246c6a)
+
 
 # Data Structure & Initial Checks
 
