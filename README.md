@@ -3,7 +3,7 @@
 # Project Background
 Netflix is one of the largest streaming platforms globally, offering a wide variety of movies and TV shows to millions of users. To gain deeper insights into its library and viewer trends, this project analyzes Netflix's movie and TV show data to uncover key patterns in ratings, genres, and regional performance.
 
-The main objectives of this project are to:
+The main objectives of this project are:
 
 - Library Analysis: Understand the composition of Netflix's content by rating group, genre, and type (movies vs. TV shows).
 - Audience Preferences: Analyze average ratings, votes, and top-rated titles to identify audience preferences.
@@ -16,10 +16,13 @@ An interactive **PowerBI dashboard** can be found [here](https://raw.githubuserc
 
 ![netflix data model](https://github.com/user-attachments/assets/00b4bb09-abda-4522-9f2a-5a88a5246c6a)
 
+![Netflix Dashboard](https://github.com/user-attachments/assets/cdc2c0e1-b27b-4861-b4c4-a75f6be2ca78)
 
 # Data Structure & Initial Checks
 
 # Executive Summary
+An interactive **PowerBI dashboard** can be found [here](https://raw.githubusercontent.com/csiAI/Netflix-Ratings-and-Audience-Trends/refs/heads/main/Netflix%20project.pbix).
+
 - Content Distribution:
 Netflix offers 2,637 movies and 2,872 TV shows.
 TV Shows generally outperform movies, with an average rating of 7.2 compared to 6.1 for movies.
