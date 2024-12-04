@@ -14,7 +14,8 @@ An interactive **PowerBI dashboard** can be found [here](https://raw.githubuserc
 
 # Data Structure & Initial Checks
 
-![netflix data model](https://github.com/user-attachments/assets/00b4bb09-abda-4522-9f2a-5a88a5246c6a)
+
+![data model](https://github.com/user-attachments/assets/15cf6b77-3c62-4a9b-866c-732c2e94eb7c)
 
 
 
