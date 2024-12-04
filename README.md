@@ -10,7 +10,7 @@ The main objectives of this project are:
 - Regional Insights: Explore the distribution of Netflix content across different countries and regions.
 - Performance Metrics: Highlight high-performing genres and regions to support data-driven decision-making.
 
-An interactive **PowerBI dashboard** can be found [here](https://raw.githubusercontent.com/csiAI/Netflix-Ratings-and-Audience-Trends/refs/heads/main/Netflix%20project.pbix).
+An interactive **PowerBI dashboard** can be found [here](https://raw.githubusercontent.com/csiAI/Netflix-Ratings-and-Audience-Trends/refs/heads/main/Netflix_Analytics.pbix).
 
 # Data Structure & Initial Checks
 
@@ -35,7 +35,7 @@ The data model consists of the following tables:
 
 - **Regional Opportunities:** The U.S. leads in content and engagement, while Japan, India, and South Korea show strong growth potential.
 
-An interactive **PowerBI dashboard** can be found [here](https://raw.githubusercontent.com/csiAI/Netflix-Ratings-and-Audience-Trends/refs/heads/main/Netflix%20project.pbix).
+An interactive **PowerBI dashboard** can be found [here](https://raw.githubusercontent.com/csiAI/Netflix-Ratings-and-Audience-Trends/refs/heads/main/Netflix_Analytics.pbix).
 
 ![Netflix Dashboard](https://github.com/user-attachments/assets/cdc2c0e1-b27b-4861-b4c4-a75f6be2ca78)
 
