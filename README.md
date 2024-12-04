@@ -58,17 +58,17 @@ An interactive **PowerBI dashboard** can be found [here](https://raw.githubuserc
 
 **Key Insights and Recommendations:**
 
-1. Focus on Top-Performing Genres
+1. **Focus on Top-Performing Genres:**
 Drama, Comedy, and Action dominate the content library, but Netflix should capitalize on the growing popularity of niche genres such as War and Film-Noir to attract specific audiences.
 
-2. Improve Low-Rated Genres
+2. **Improve Low-Rated Genres:**
 Explore opportunities to enhance Horror and History content by improving quality or tailoring it to audience preferences.
 
-3. Regional Growth Opportunities
+3. **Regional Growth Opportunities:**
 Invest in content for high-potential regions such as Japan and India, which exhibit strong ratings and audience engagement.
 Support emerging markets like South Korea by expanding culturally relevant offerings.
 
-4. Leverage Viewer Engagement
+4. **Leverage Viewer Engagement:**
 Highlight top-rated titles such as Stranger Things and Avatar in promotional campaigns to increase viewer retention.
 Use high-vote titles as benchmarks for content development.
 
