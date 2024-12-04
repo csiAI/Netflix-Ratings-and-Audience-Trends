@@ -22,7 +22,7 @@ An interactive **PowerBI dashboard** can be found [here](https://raw.githubuserc
 
 **Overview of Findings:**
 
-- Performance Insights: Netflix hosts over 5,500 titles, with TV shows outperforming movies in ratings. High-rated content is prevalent, with 1,780 titles rated 7+.
+- Performance Insights: Netflix hosts over 5,500 titles, with TV shows outperforming movies in ratings. High-rated content is prevalent, with 1,480 titles rated 7+.
 
 - Genre Strengths: Comedy, Drama, and Action dominate in quantity, while War and Film-Noir excel in quality.
 
@@ -36,19 +36,15 @@ An interactive **PowerBI dashboard** can be found [here](https://raw.githubuserc
 **Content Distribution:**
 - Netflix offers 2,637 movies and 2,872 TV shows.
 - TV Shows generally outperform movies, with an average rating of 7.2 compared to 6.1 for movies.
-- Content is dominated by high-rating groups, with 1,780 titles rated 7 or higher.
+- Content is dominated by high-rating groups, with 1,480 titles rated 7 or higher.
 
 **Genre Insights:**
-- The most popular genres based on the number of titles:
-- Comedy (1,352 titles), Drama (982 titles), and Action (964 titles).
-- Highest-rated genres: War and Film-Noir, with average ratings of 8.2 and 7.5, respectively. Horror is the lowest-rated genre, with an average rating of 4.9.
+- Comedy, Drama, and Action have the highest number of titles.
+- War and Film-Noir, with average ratings of 8.2 and 7.5, respectively, are the highest-rated genres. Horror is the lowest-rated genre, with an average rating of 4.9.
 
 **Regional Analysis:**
 - United States leads Netflix's library with the highest number of titles (2,326 titles) and votes (76M votes).
-- Other top regions include:
-United Kingdom (448 titles, Avg Rating: 7.1)
-Japan (291 titles, Avg Rating: 7.4)
-Emerging markets such as India and South Korea are showing competitive ratings and engagement.
+- Other top regions include: United Kingdom (448 titles, Avg Rating: 7.1), Japan (371 titles, Avg Rating: 7.1). Emerging markets such as India and South Korea are showing competitive ratings and engagement.
 
 **Viewer Preferences:**
 - Top-rated titles include:
