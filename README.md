@@ -22,11 +22,11 @@ An interactive **PowerBI dashboard** can be found [here](https://raw.githubuserc
 
 **Overview of Findings:**
 
-- Performance Insights: Netflix hosts over 5,500 titles, with TV shows outperforming movies in ratings. High-rated content is prevalent, with 1,480 titles rated 7+.
+- **Performance Insights:** Netflix hosts over 5,500 titles, with TV shows outperforming movies in ratings. High-rated content is prevalent, with 1,480 titles rated 7+.
 
-- Genre Strengths: Comedy, Drama, and Action dominate in quantity, while War and Film-Noir excel in quality.
+- **Genre Strengths:** Comedy, Drama, and Action dominate in quantity, while War and Film-Noir excel in quality.
 
-- Regional Opportunities: The U.S. leads in content and engagement, while Japan, India, and South Korea show strong growth potential.
+- **Regional Opportunities:** The U.S. leads in content and engagement, while Japan, India, and South Korea show strong growth potential.
 
 An interactive **PowerBI dashboard** can be found [here](https://raw.githubusercontent.com/csiAI/Netflix-Ratings-and-Audience-Trends/refs/heads/main/Netflix%20project.pbix).
 
