@@ -46,7 +46,8 @@ An interactive **PowerBI dashboard** can be found [here](https://raw.githubuserc
 - United States leads Netflix's library with the highest number of titles (2,326 titles) and votes (76M votes).
 - Other top regions include:
         - United Kingdom (448 titles, Avg Rating: 7.1)
-          - Japan (371 titles, Avg Rating: 7.1). Emerging markets such as India and South Korea are showing competitive ratings and engagement.
+        - Japan (371 titles, Avg Rating: 7.1).
+        - Emerging markets such as India and South Korea are showing competitive ratings and engagement.
 
 **Viewer Preferences:**
 - Top-rated titles include:
