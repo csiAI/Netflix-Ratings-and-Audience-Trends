@@ -48,9 +48,9 @@ An interactive **PowerBI dashboard** can be found [here](https://raw.githubuserc
 
 **Viewer Preferences:**
 - Top-rated titles include:
-Stranger Things: Spotlight (Rating: 9.4)
-Avatar: The Last Airbender (Rating: 9.3)
-Cosmos: A Spacetime Odyssey (Rating: 9.3)
+    - Stranger Things: Spotlight (Rating: 9.4)
+    - Avatar: The Last Airbender (Rating: 9.3)
+    - Cosmos: A Spacetime Odyssey (Rating: 9.3)
 - Titles with higher votes tend to align with mainstream appeal, while niche genres such as Film-Noir receive fewer votes.
 
 **Key Insights and Recommendations:**
