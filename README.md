@@ -15,10 +15,10 @@ An interactive **PowerBI dashboard** can be found [here](https://raw.githubuserc
 # Data Structure & Initial Checks
 
 The data model consists of the following tables:
-- Listings: Central table with content details like country, genre, rating, votes, and type (Movies/TV Shows).
-- Calculations: Stores pre-defined measures for ratings, titles, and votes to simplify analysis.
-- Color Grading: Enables dynamic formatting with conditional colors based on rating groups.
-- Avg Rating-Titles-Votes Parameter: Supports interactivity by toggling between metrics for visuals.
+- **Listings:** Central table with content details like country, genre, rating, votes, and type (Movies/TV Shows).
+- **Calculations:** Stores pre-defined measures for ratings, titles, and votes to simplify analysis.
+- **Color Grading:** Enables dynamic formatting with conditional colors based on rating groups.
+- **Avg Rating-Titles-Votes Parameter:** Supports interactivity by toggling between metrics for visuals.
 
 
 ![data model](https://github.com/user-attachments/assets/15cf6b77-3c62-4a9b-866c-732c2e94eb7c)
