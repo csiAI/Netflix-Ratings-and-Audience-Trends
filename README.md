@@ -1,4 +1,4 @@
-# Netflix-Ratings-and-Audience-Trends
+# Netflix-Ratings-& Engagement
 
 # Project Background
 Netflix is one of the largest streaming platforms globally, offering a wide variety of movies and TV shows to millions of users. To gain deeper insights into its library and viewer trends, this project analyzes Netflix's movie and TV show data to uncover key patterns in ratings, genres, and regional performance.
